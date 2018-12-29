@@ -1,0 +1,40 @@
+html {
+  background-color: #483FBF;
+  padding:
+  font-family: 'Dancing Script', cursive;
+  font-size: 10px;
+}
+p, li {
+  font-size: 20px;
+  line-height:2;
+  letter-spacing: 1px;
+}
+ h1{
+   text-align: center;
+   text-shadow: 3px 5px 3px black;
+   margin: 0;
+   padding: 20px 0;
+   color: #F80B1F;
+   font-size: 40px;
+ }
+ img{
+   display: block;
+   margin: auto;
+ }
+
+ body {
+   margin: 0 auto;
+   padding: 0 20px 20px 20px;
+   border: 5px solid black;
+   background-color:#FFFFFF;
+   width: 800px;
+ }
+ h3{
+   font-size: 30px;
+ }
+ #taxiSer{
+   font-family: cursive;
+ }
+ .coni{
+   font-family: 'Dancing Script';
+ }
